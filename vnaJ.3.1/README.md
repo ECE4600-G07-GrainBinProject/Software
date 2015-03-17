@@ -1,4 +1,4 @@
-# Software
+# miniVNA PRO Software folders and files (vnaJ-hl.3.1.3.jar)
 
 To create calibration files in calibration folder, please use the vnaJ GUI and follow user manual. 
 Available: http://vnaj.dl2sba.com/index.php?option=com_content&view=article&id=11&Itemid=118
