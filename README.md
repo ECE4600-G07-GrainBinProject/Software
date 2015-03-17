@@ -12,9 +12,8 @@ To setup button.py to run at bootup of the RPi2, enter this on the RPi2 when log
 
 NOTE: Login information for ARCH LINUX is,
 
-username: root
-
-password: gbin2015
+* username: root
+* password: gbin2015
 
 The static IP address is set to be 192.168.1.23 when an ethernet cable is connected (this is handy to ssh but is not reliable so HDMI output is the way to go).
 
