@@ -18,6 +18,3 @@ password: gbin2015
 
 The static IP address is set to be 192.168.1.23 when an ethernet cable is connected (this is handy to ssh but is not reliable so HDMI output is the way to go).
 
-To create calibration files, please use the vnaJ GUI and follow user manual. 
-Available: http://vnaj.dl2sba.com/index.php?option=com_content&view=article&id=11&Itemid=118
-
