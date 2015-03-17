@@ -18,16 +18,16 @@ For details, refer to: https://github.com/andreafabrizi/Dropbox-Uploader
 
 #How to compile and run individual files:
 
--.sh
--shell script
+##.sh
+##shell script
 ./gbin.sh
 
--.py
--python script
+##.py
+##python script
 python button.py
 
--.cs
--c# code
+##.cs
+##c[sharp] code
 ##compile##
 gmcs ports.cs
 ##execute##
