@@ -9,7 +9,8 @@ To setup button.py to run at bootup of the RPi2, enter this on the RPi2 when log
 1. crontab -e
 2. @reboot python /home/grainbin/button.py
 
-NOTE: Login information for ARCH LINUX is
+NOTE: Login information for ARCH LINUX is,
+
 username: root
 password: gbin2015
 
