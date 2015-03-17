@@ -16,21 +16,21 @@ miniVNA headless software
 #dropbox_upload.sh
 For details, refer to: https://github.com/andreafabrizi/Dropbox-Uploader
 
-How to compile and run individual files:
+#How to compile and run individual files:
 
-# .sh
-# shell script
+-.sh
+-shell script
 ./gbin.sh
 
-# .py
-# python script
+-.py
+-python script
 python button.py
 
-#.cs
-# c# code
-#compile
+-.cs
+-c# code
+##compile##
 gmcs ports.cs
-#execute
+##execute##
 mono ports.exe 
 
-NOTE: must have python and mono packages installed on RPi2
+##NOTE: must have python and mono packages installed on RPi2##
