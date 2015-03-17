@@ -6,6 +6,7 @@ Both the grainbin and vnaJ.3.1 folders need to be on the root directory of the R
 The current setup starts by running the button.py script: python /root/grainbin/button.py
 
 To setup button.py to run at bootup of the RPi2, enter this on the RPi2 when logged into ARCH LINUX (can access RPi2 either through HDMI cable or SSH)
+
 1. crontab -e
 2. @reboot python /home/grainbin/button.py
 
